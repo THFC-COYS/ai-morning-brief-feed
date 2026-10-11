@@ -12,7 +12,7 @@
       <itunes:email>greg.lucas@paigebreaker.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://cdn.jsdelivr.net/gh/THFC-COYS/ai-morning-brief-feed@main/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/cover.png"/>
@@ -30,7 +30,7 @@ AI Generated</description>
       <guid isPermaLink="false">ep-88611e3e-9afe-4162-b728-01abff6b582a</guid>
       <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-88611e3e-9afe-4162-b728-01abff6b582a.mp3" length="2291749" type="audio/mpeg"/>
       <itunes:duration>286</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>AI Morning Brief — October 9, 2026</title>
@@ -41,7 +41,7 @@ AI Generated</description>
       <guid isPermaLink="false">ep-12333470-a01b-4e8a-b8c6-216064245176</guid>
       <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-12333470-a01b-4e8a-b8c6-216064245176.mp3" length="3344101" type="audio/mpeg"/>
       <itunes:duration>418</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>AI Morning Brief — October 10, 2026</title>
@@ -52,7 +52,7 @@ AI Generated</description>
       <guid isPermaLink="false">ep-e60828db-fec3-4acc-9a6d-2176ca183f08</guid>
       <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-e60828db-fec3-4acc-9a6d-2176ca183f08.mp3" length="3623077" type="audio/mpeg"/>
       <itunes:duration>452</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>AI Morning Brief — October 11, 2026</title>
@@ -63,7 +63,7 @@ AI Generated</description>
       <guid isPermaLink="false">ep-e654c4e2-0852-441b-beb7-ee5af950392c</guid>
       <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-e654c4e2-0852-441b-beb7-ee5af950392c.mp3" length="4000933" type="audio/mpeg"/>
       <itunes:duration>500</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
