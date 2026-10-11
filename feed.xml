@@ -14,7 +14,7 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cdn.jsdelivr.net/gh/THFC-COYS/ai-morning-brief-feed@main/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/cover.png"/>
     <image>
       <url>https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/cover.png</url>
