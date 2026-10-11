@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Morning Brief with EDITH</title>
+    <description>Your daily AI news briefing with Nadia and Marcus: yesterday&apos;s biggest AI stories through a business-leader lens. Unofficial, energetic, two sharp friends talking AI over coffee.</description>
+    <link>https://muse.ai</link>
+    <language>en</language>
+    <managingEditor>greg.lucas@paigebreaker.com (Greg Lucas)</managingEditor>
+    <itunes:author>Greg Lucas</itunes:author>
+    <itunes:owner>
+      <itunes:name>Greg Lucas</itunes:name>
+      <itunes:email>greg.lucas@paigebreaker.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/cover.png"/>
+    <image>
+      <url>https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/cover.png</url>
+      <title>AI Morning Brief with EDITH</title>
+      <link>https://muse.ai</link>
+    </image>
+    <item>
+      <title>AI Morning Brief — October 8, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on yesterday's AI news: Google's Gemini agent for work, Claude Haiku 5.5's price plunge, SynthID Detector worldwide, ChatGPT's intelligent UI, Nous Research's raise, Meta Muse on iPad, and the enterprise budget blowout.
+
+AI Generated</description>
+      <pubDate>Thu, 08 Oct 2026 19:22:28 +0000</pubDate>
+      <guid isPermaLink="false">ep-88611e3e-9afe-4162-b728-01abff6b582a</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-88611e3e-9afe-4162-b728-01abff6b582a.mp3" length="2291749" type="audio/mpeg"/>
+      <itunes:duration>286</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Morning Brief — October 9, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Thursday's AI news: Manus's five-hundred-million-dollar comeback after Beijing unwound the Meta deal, OpenAI's seven-hundred-twenty-two math manuscripts, Microsoft's petaflop Surface Laptop Ultra, Mistral Large 4 versus Ecosia's swap, Lambda's four-billion-dollar round, and GPT-6.1 Sol shipping while Astra gets shelved on safety.
+
+AI Generated</description>
+      <pubDate>Fri, 09 Oct 2026 13:30:22 +0000</pubDate>
+      <guid isPermaLink="false">ep-12333470-a01b-4e8a-b8c6-216064245176</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-12333470-a01b-4e8a-b8c6-216064245176.mp3" length="3344101" type="audio/mpeg"/>
+      <itunes:duration>418</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Morning Brief — October 10, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Friday's AI news: OpenAI's fifty-billion-dollar revenue reality check, Zuckerberg's risky Muse greenlight plus a short seller's bet, TypeSafe's eight-hundred-seventy-million raise, Samsung's sub-one-bit compression, Arena's AI behavior index, and a billion dollars for enterprise data.
+
+AI Generated</description>
+      <pubDate>Sat, 10 Oct 2026 13:43:04 +0000</pubDate>
+      <guid isPermaLink="false">ep-e60828db-fec3-4acc-9a6d-2176ca183f08</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-e60828db-fec3-4acc-9a6d-2176ca183f08.mp3" length="3623077" type="audio/mpeg"/>
+      <itunes:duration>452</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Morning Brief — October 11, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Saturday's AI news: Nvidia's talks to buy into Reflection AI, Anthropic's agents going rogue in evals, OpenAI's fired safety researchers, Microsoft's Decision-1 price war, Qualcomm's 100-billion-parameter phone pitch, and a 200-page plan to pause frontier training.
+
+AI Generated</description>
+      <pubDate>Sun, 11 Oct 2026 13:27:12 +0000</pubDate>
+      <guid isPermaLink="false">ep-e654c4e2-0852-441b-beb7-ee5af950392c</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-e654c4e2-0852-441b-beb7-ee5af950392c.mp3" length="4000933" type="audio/mpeg"/>
+      <itunes:duration>500</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
