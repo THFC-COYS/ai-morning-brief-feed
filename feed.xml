@@ -65,5 +65,27 @@ AI Generated</description>
       <itunes:duration>500</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 12, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Sunday's AI news: Amazon's seven-billion-dollar talks for Decart, the US reversing its pause on UK AI safety testing, Satya Nadella's trust-architecture manifesto, DeepMind's hurricane call that beat the forecasters, and Asana's seventy-six-times cheaper agents.
+
+AI Generated</description>
+      <pubDate>Mon, 12 Oct 2026 13:30:39 +0000</pubDate>
+      <guid isPermaLink="false">ep-c7438cfe-8672-41b0-8f91-6f0d82446316</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-c7438cfe-8672-41b0-8f91-6f0d82446316.mp3" length="3716389" type="audio/mpeg"/>
+      <itunes:duration>464</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Morning Brief — October 13, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Monday's AI news: Meta's Muse Wonder frontier launch, the X Subscription bundling Grok and Cursor, HCLTech's Anthropic pact, DigitalOcean's self-improving agents, and thirty-three point five billion dollars chasing AI power.
+
+AI Generated</description>
+      <pubDate>Tue, 13 Oct 2026 13:27:14 +0000</pubDate>
+      <guid isPermaLink="false">ep-d90906cf-296b-4dfa-a0a7-6817de35b719</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-d90906cf-296b-4dfa-a0a7-6817de35b719.mp3" length="3555109" type="audio/mpeg"/>
+      <itunes:duration>444</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
