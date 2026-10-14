@@ -87,5 +87,16 @@ AI Generated</description>
       <itunes:duration>444</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 14, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Tuesday's AI news: Google's Gemini 4 Argon launch with a December price doubling, OpenAI and Anthropic asking Parliament for binding rules, Anthropic's TV box botnet warning, Pluto Security's forty-two million dollars, and Nvidia shopping in France.
+
+AI Generated</description>
+      <pubDate>Wed, 14 Oct 2026 13:26:54 +0000</pubDate>
+      <guid isPermaLink="false">ep-1baa0bb9-e9ae-4bcb-96a5-fc908d8bb920</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-1baa0bb9-e9ae-4bcb-96a5-fc908d8bb920.mp3" length="3775333" type="audio/mpeg"/>
+      <itunes:duration>471</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
