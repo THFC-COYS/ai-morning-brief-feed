@@ -98,5 +98,16 @@ AI Generated</description>
       <itunes:duration>471</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 15, 2026</title>
+      <description>Nadia and Marcus go unofficial and energetic on Wednesday's AI news: the EU's first AI Act probe into rogue agents at OpenAI and Anthropic, Nvidia's 250-million-dollar UK safety compute pledge, Modal's 750-million-dollar raise, Apple Intelligence heading to China, and Character.AI's bankruptcy fight over children's data.
+
+AI Generated</description>
+      <pubDate>Thu, 15 Oct 2026 13:27:29 +0000</pubDate>
+      <guid isPermaLink="false">ep-8a34f302-4269-4621-b79a-3533a405b236</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-8a34f302-4269-4621-b79a-3533a405b236.mp3" length="3682597" type="audio/mpeg"/>
+      <itunes:duration>460</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
