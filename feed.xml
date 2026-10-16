@@ -109,5 +109,16 @@ AI Generated</description>
       <itunes:duration>460</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 16, 2026</title>
+      <description>Nadia and Marcus on Thursday's open-weights flood from Meta and Nvidia, Cohere buying bug hunter AISLE, Proofpoint's 6.3B Varonis deal, Proof's x401 agent identity protocol, and Anthropic giving METR employee-level access.
+
+AI Generated</description>
+      <pubDate>Fri, 16 Oct 2026 13:26:31 +0000</pubDate>
+      <guid isPermaLink="false">ep-a7c554f2-d3fd-44d9-8acf-a08cbbdffed9</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-a7c554f2-d3fd-44d9-8acf-a08cbbdffed9.mp3" length="3501349" type="audio/mpeg"/>
+      <itunes:duration>437</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
