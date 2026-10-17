@@ -120,5 +120,16 @@ AI Generated</description>
       <itunes:duration>437</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 17, 2026</title>
+      <description>Nadia and Marcus on Friday's FTC demands to OpenAI and Anthropic, eight states suing OpenAI, Bank of America's 1,000 Mythos patchers, Microsoft's MAI-Base-2, Mercedes and Volvo locking in Nvidia, Accenture's $29 Claude cap, and Perplexity open-sourcing its agent sandbox.
+
+AI Generated</description>
+      <pubDate>Sat, 17 Oct 2026 13:27:22 +0000</pubDate>
+      <guid isPermaLink="false">ep-04f5f3cd-6699-4dd8-98a8-68e34d63e0c7</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-04f5f3cd-6699-4dd8-98a8-68e34d63e0c7.mp3" length="3680485" type="audio/mpeg"/>
+      <itunes:duration>460</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
