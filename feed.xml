@@ -131,5 +131,16 @@ AI Generated</description>
       <itunes:duration>460</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 18, 2026</title>
+      <description>Nadia and Marcus on DeepSeek's cheap open V4.1 Flash, Anthropic drafting its own AI bill, OpenAI's June agent incidents, Meta's rewritten crawling terms, banks blocking outside agents, India's CERT-In warning, and Claude writing ninety percent of Claude Code.
+
+AI Generated</description>
+      <pubDate>Sun, 18 Oct 2026 13:29:28 +0000</pubDate>
+      <guid isPermaLink="false">ep-6eecae88-3369-4fc4-8495-1c4cda43455e</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-6eecae88-3369-4fc4-8495-1c4cda43455e.mp3" length="3641509" type="audio/mpeg"/>
+      <itunes:duration>455</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
