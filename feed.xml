@@ -142,5 +142,16 @@ AI Generated</description>
       <itunes:duration>455</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 19, 2026</title>
+      <description>Nadia and Marcus on Anthropic's five percent public benefit fund, Disney hiring most of Character.AI's team, World's ID for agents, Anthropic teaching agents to negotiate, the OpenCode key breach, Haiku 5.5, a forty-four trillion dollar GDP claim, and OpenAI's humanoid robot.
+
+AI Generated</description>
+      <pubDate>Mon, 19 Oct 2026 13:30:07 +0000</pubDate>
+      <guid isPermaLink="false">ep-b8e6d8ac-88f9-4e92-86d4-6fa7ce1a85ea</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-b8e6d8ac-88f9-4e92-86d4-6fa7ce1a85ea.mp3" length="4482661" type="audio/mpeg"/>
+      <itunes:duration>560</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
