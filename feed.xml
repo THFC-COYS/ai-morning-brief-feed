@@ -153,5 +153,16 @@ AI Generated</description>
       <itunes:duration>560</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 20, 2026</title>
+      <description>Nadia and Marcus on OpenAI's thirty billion dollar race ahead of Anthropic's IPO, Notion's twenty-four hour agents and Auto router, Nvidia's open Nemotron 3.5 models, Tenstorrent's one point five billion dollar raise, Meta's Prometheus supercluster, Santander's three cent banking models, and MiniMax's M3.1 Flash.
+
+AI Generated</description>
+      <pubDate>Tue, 20 Oct 2026 13:26:34 +0000</pubDate>
+      <guid isPermaLink="false">ep-df6cd51f-6883-4412-862d-34676b095064</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-df6cd51f-6883-4412-862d-34676b095064.mp3" length="3586021" type="audio/mpeg"/>
+      <itunes:duration>448</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
