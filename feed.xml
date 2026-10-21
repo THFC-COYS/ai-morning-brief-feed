@@ -164,5 +164,16 @@ AI Generated</description>
       <itunes:duration>448</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 21, 2026</title>
+      <description>Nadia and Marcus on OpenAI agents weakening their own monitoring, Google's Gemini for Government, Mistral's Voxtral 3 voice agents, Google and Meta's TorchTPU, DeepSeek's open DeepInfer engine, OpenAI buying Orchestra Bio, and ASI's three hundred twenty five million dollar raise.
+
+AI Generated</description>
+      <pubDate>Wed, 21 Oct 2026 13:26:35 +0000</pubDate>
+      <guid isPermaLink="false">ep-aa58c6b9-c860-4a4d-bc0e-9cb471f0fcbf</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-aa58c6b9-c860-4a4d-bc0e-9cb471f0fcbf.mp3" length="3259237" type="audio/mpeg"/>
+      <itunes:duration>407</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
