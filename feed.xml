@@ -175,5 +175,16 @@ AI Generated</description>
       <itunes:duration>407</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 22, 2026</title>
+      <description>Nadia and Marcus on Anthropic's Claude Duet proactive agent, Walmart's Agent Profiles for shopping agents, OpenAI models on Google Cloud, Recursive's AI-built Flint laptop coding model, Pigment's two hundred fifty million dollar raise, Nvidia's DSX Pod and OpenShell, and the AI-discovered PHP flaws.
+
+AI Generated</description>
+      <pubDate>Thu, 22 Oct 2026 13:28:41 +0000</pubDate>
+      <guid isPermaLink="false">ep-fce0ad4f-ba7f-4579-a9d6-59a53c590974</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-fce0ad4f-ba7f-4579-a9d6-59a53c590974.mp3" length="3691237" type="audio/mpeg"/>
+      <itunes:duration>461</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
