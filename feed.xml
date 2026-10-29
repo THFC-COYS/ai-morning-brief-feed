@@ -230,5 +230,16 @@ AI Generated</description>
       <itunes:duration>440</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 29, 2026</title>
+      <description>Nadia and Marcus on Google's Gemini 4 Carbon for cyber defense, Anthropic buying one-person biotech Mithril and shipping Claude cost tools, Nvidia and AMD putting four billion into Meta, Oracle capping AI funding at twenty billion, the UK funding an agent-incident unit, and Meta's Muse landing in Singapore.
+
+AI Generated</description>
+      <pubDate>Thu, 29 Oct 2026 13:27:31 +0000</pubDate>
+      <guid isPermaLink="false">ep-c374490d-9178-4a88-8025-d00908a34fff</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-c374490d-9178-4a88-8025-d00908a34fff.mp3" length="3819493" type="audio/mpeg"/>
+      <itunes:duration>477</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
