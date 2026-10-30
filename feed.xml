@@ -241,5 +241,16 @@ AI Generated</description>
       <itunes:duration>477</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — October 30, 2026</title>
+      <description>Nadia and Marcus on Microsoft booking ten billion dollars from OpenAI in one quarter, GitHub agents starting forty percent of pull requests, Amazon's ninety-eight billion dollar Anthropic paper win, banks blocking agents and the new detection industry, and who should hold the kill switch for dangerous models.
+
+AI Generated</description>
+      <pubDate>Fri, 30 Oct 2026 13:26:15 +0000</pubDate>
+      <guid isPermaLink="false">ep-fbb81d76-14cc-4a5f-b4da-acabf14d4660</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-fbb81d76-14cc-4a5f-b4da-acabf14d4660.mp3" length="3807397" type="audio/mpeg"/>
+      <itunes:duration>475</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
