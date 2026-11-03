@@ -263,5 +263,16 @@ AI Generated</description>
       <itunes:duration>538</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 3, 2026</title>
+      <description>Nadia and Marcus on Anthropic warning it may be near recursive self-improvement, Meituan's LongCat-2.5, Marvell's 115 billion dollar Lumentum deal, Goldman pulling coding tools, and LLMjacking bills.
+
+AI Generated</description>
+      <pubDate>Tue, 03 Nov 2026 13:25:52 +0000</pubDate>
+      <guid isPermaLink="false">ep-e0c14d82-08fc-4b37-b0e3-91ce194e98b3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-e0c14d82-08fc-4b37-b0e3-91ce194e98b3.mp3" length="3563749" type="audio/mpeg"/>
+      <itunes:duration>445</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
