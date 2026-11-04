@@ -274,5 +274,16 @@ AI Generated</description>
       <itunes:duration>445</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 4, 2026</title>
+      <description>Nadia and Marcus on Menlo's 176.8 billion dollar enterprise AI report and agents burning the tokens, CrowdStrike's AI Kill Switch, Google's K-12 defaults, Anthropic's FlashProve, and a free stealth model called Crouton Alpha.
+
+AI Generated</description>
+      <pubDate>Wed, 04 Nov 2026 13:25:55 +0000</pubDate>
+      <guid isPermaLink="false">ep-cf86f1a3-6c9d-44c7-ba84-031bd26f31d3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-cf86f1a3-6c9d-44c7-ba84-031bd26f31d3.mp3" length="3474853" type="audio/mpeg"/>
+      <itunes:duration>434</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
