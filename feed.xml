@@ -285,5 +285,16 @@ AI Generated</description>
       <itunes:duration>434</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 5, 2026</title>
+      <description>Nadia and Marcus on Tencent Hy4, OpenAI's 948 Linux flaws, Meta buying Conductor, Google's Agentic Data Cloud, the Postman agent scare, and Claude solving a vault protein.
+
+AI Generated</description>
+      <pubDate>Thu, 05 Nov 2026 13:27:39 +0000</pubDate>
+      <guid isPermaLink="false">ep-5d924a4a-d637-4576-bb3b-e570bc36ec40</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-5d924a4a-d637-4576-bb3b-e570bc36ec40.mp3" length="3563173" type="audio/mpeg"/>
+      <itunes:duration>445</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
