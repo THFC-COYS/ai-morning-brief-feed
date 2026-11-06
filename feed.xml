@@ -296,5 +296,16 @@ AI Generated</description>
       <itunes:duration>445</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 6, 2026</title>
+      <description>Nadia and Marcus on OpenAI's gated GPT-6 Cyber, Thinking Machines' Inkling 2 Small, Perplexity Teammates, Claude's read-only bank link, Gemini Omni's price cut, Kimi K3.1 Pro weights, and OpenAI's data center compact.
+
+AI Generated</description>
+      <pubDate>Fri, 06 Nov 2026 13:27:41 +0000</pubDate>
+      <guid isPermaLink="false">ep-b3584160-8a6e-4fa3-8364-9dfebe3bec4a</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-b3584160-8a6e-4fa3-8364-9dfebe3bec4a.mp3" length="3585445" type="audio/mpeg"/>
+      <itunes:duration>448</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
