@@ -307,5 +307,16 @@ AI Generated</description>
       <itunes:duration>448</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 9, 2026</title>
+      <description>Nadia and Marcus on Anthropic's reported 3.4 billion dollar generator deal, the 2.5 trillion dollar AI selloff, OpenAI's 11 billion dollar raise, the Lean-checked Aaronson-Ambainis proof, DeepMind's RSA-1024 findings, and the Linux AI flood receding.
+
+AI Generated</description>
+      <pubDate>Mon, 09 Nov 2026 13:29:31 +0000</pubDate>
+      <guid isPermaLink="false">ep-a0f4f7ae-da58-40a1-8b9c-b484d4fe0af3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-a0f4f7ae-da58-40a1-8b9c-b484d4fe0af3.mp3" length="4667749" type="audio/mpeg"/>
+      <itunes:duration>583</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
