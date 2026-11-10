@@ -318,5 +318,16 @@ AI Generated</description>
       <itunes:duration>583</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 10, 2026</title>
+      <description>Nadia and Marcus on Anthropic's Fable 5.2 and restricted Mythos 5.2, Google's TPU 8tx and 8i Max, Meta's ten-cent Muse Ember, NVIDIA GR00T 2, Mistral Large 4 open weights, ChatGPT Enterprise on AWS Marketplace, and the AIPREF training opt-out signal.
+
+AI Generated</description>
+      <pubDate>Tue, 10 Nov 2026 13:27:22 +0000</pubDate>
+      <guid isPermaLink="false">ep-9decadd5-d822-4006-b6db-624b42a203f0</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-9decadd5-d822-4006-b6db-624b42a203f0.mp3" length="3183013" type="audio/mpeg"/>
+      <itunes:duration>397</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
