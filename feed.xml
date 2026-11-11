@@ -329,5 +329,16 @@ AI Generated</description>
       <itunes:duration>397</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 11, 2026</title>
+      <description>Nadia and Marcus on Gemini 4 Carbon going GA, Claude Meetings Sheets and Whiteboards, IBM and Microsoft's 6,000-agent Imagine Enterprise, OpenAI Business Agents in ChatGPT, Anthropic's IPO roadshow, Gemini Robotics 2.5, and New York's RAISE Act taking effect.
+
+AI Generated</description>
+      <pubDate>Wed, 11 Nov 2026 13:28:14 +0000</pubDate>
+      <guid isPermaLink="false">ep-84dc5b5e-b5fd-47a7-b11f-61b73a634875</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-84dc5b5e-b5fd-47a7-b11f-61b73a634875.mp3" length="3696037" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
