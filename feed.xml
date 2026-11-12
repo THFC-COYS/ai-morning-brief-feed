@@ -340,5 +340,16 @@ AI Generated</description>
       <itunes:duration>462</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 12, 2026</title>
+      <description>Nadia and Marcus on Gemini Decision 1 pricing judgment at ten cents per million tokens, Databricks' always-on Genie, United Airlines banning AI agents from booking, AlphaGenome 2, Runway's open Praxis-1, Qwen4-Max's two-week preview, and the Grok Build sharing-default leak.
+
+AI Generated</description>
+      <pubDate>Thu, 12 Nov 2026 13:29:55 +0000</pubDate>
+      <guid isPermaLink="false">ep-b93cfa68-f1d2-42fc-9806-07c405ff0fad</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-b93cfa68-f1d2-42fc-9806-07c405ff0fad.mp3" length="3553957" type="audio/mpeg"/>
+      <itunes:duration>444</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
