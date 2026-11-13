@@ -351,5 +351,16 @@ AI Generated</description>
       <itunes:duration>444</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 13, 2026</title>
+      <description>Nadia and Marcus on Gemini 4 Hydrogen, Anthropic's self-hosted Managed Agents, OpenAI Daybreak, the GitHub secret stealer, the frontier AI lawsuit, Edge0's 145B laptop model, and the AI cost reckoning.
+
+AI Generated</description>
+      <pubDate>Fri, 13 Nov 2026 13:28:53 +0000</pubDate>
+      <guid isPermaLink="false">ep-5d1cdd90-3612-4e05-96d6-271bbc7cae6b</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-5d1cdd90-3612-4e05-96d6-271bbc7cae6b.mp3" length="3726565" type="audio/mpeg"/>
+      <itunes:duration>465</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
