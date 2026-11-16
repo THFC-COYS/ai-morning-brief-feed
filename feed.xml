@@ -362,5 +362,16 @@ AI Generated</description>
       <itunes:duration>465</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 16, 2026</title>
+      <description>Weekend roundup: Qwen4-Max, ChatGPT Wallet, LangChain's $300M raise, Google /teamwork verifiers, LongCat-2.5, the shared training opt-out, Anthropic IPO week, Gemini Wallet with Plaid, and Tofu-1 voice.
+
+AI Generated</description>
+      <pubDate>Mon, 16 Nov 2026 13:26:47 +0000</pubDate>
+      <guid isPermaLink="false">ep-b8f0c2bb-e973-49d8-9507-5e95bcc312e3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-b8f0c2bb-e973-49d8-9507-5e95bcc312e3.mp3" length="4116133" type="audio/mpeg"/>
+      <itunes:duration>514</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
