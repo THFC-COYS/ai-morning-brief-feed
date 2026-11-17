@@ -373,5 +373,16 @@ AI Generated</description>
       <itunes:duration>514</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 17, 2026</title>
+      <description>The bill for agents arrives: Claude Fable 5.2 and Mythos 5.2, OpenAI healthcare computer-use agents, NVIDIA's Vera Rubin MLPerf sweep, Google's fully automated exploit agent, California sues OpenAI over rogue agents, Anthropic's 30-day disclosure window, and the IMF's one-leg warning.
+
+AI Generated</description>
+      <pubDate>Tue, 17 Nov 2026 13:26:30 +0000</pubDate>
+      <guid isPermaLink="false">ep-c72baa5f-7873-4f38-a0d2-a2aa1303b94d</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-c72baa5f-7873-4f38-a0d2-a2aa1303b94d.mp3" length="3347365" type="audio/mpeg"/>
+      <itunes:duration>418</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
