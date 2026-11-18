@@ -384,5 +384,16 @@ AI Generated</description>
       <itunes:duration>418</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 18, 2026</title>
+      <description>OpenAI's cheaper GPT-6.2 Astra, Nvidia's record quarter, Microsoft's agentic Copilot push, Anthropic's IPO ownership reveal, free Gemini Tasks, and a quarter billion for banker agents.
+
+AI Generated</description>
+      <pubDate>Wed, 18 Nov 2026 13:27:47 +0000</pubDate>
+      <guid isPermaLink="false">ep-d5a641fb-28a7-411c-afa2-e59edd0f7a29</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-d5a641fb-28a7-411c-afa2-e59edd0f7a29.mp3" length="3487525" type="audio/mpeg"/>
+      <itunes:duration>435</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
