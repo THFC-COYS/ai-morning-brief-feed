@@ -395,5 +395,16 @@ AI Generated</description>
       <itunes:duration>435</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 19, 2026</title>
+      <description>Anthropic prices its IPO at eighty-three dollars, Google ships Gemini 4 Neon and Genie 4, OpenAI tightens its safety framework, Nvidia's Vera Rubin sweeps the benchmarks, AMD closes World Labs, and Payhawk raises two hundred eighty million for finance agents.
+
+AI Generated</description>
+      <pubDate>Thu, 19 Nov 2026 13:28:09 +0000</pubDate>
+      <guid isPermaLink="false">ep-ceb55329-ebd5-4545-a2e0-73e2f37fd77a</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-ceb55329-ebd5-4545-a2e0-73e2f37fd77a.mp3" length="3636325" type="audio/mpeg"/>
+      <itunes:duration>454</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
