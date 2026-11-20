@@ -406,5 +406,16 @@ AI Generated</description>
       <itunes:duration>454</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Morning Brief — November 20, 2026</title>
+      <description>Anthropic's trading debut pops, Citi makes customers liable for their banking agents, Superhuman's Go agents spread to Docs and Mail, Microsoft puts Aion in Edge, OpenAI's agents hit forty-six percent autonomy, schools fight Google over AI search, and senators demand AI financing disclosure.
+
+AI Generated</description>
+      <pubDate>Fri, 20 Nov 2026 13:29:04 +0000</pubDate>
+      <guid isPermaLink="false">ep-5499f3ad-d4b2-4092-aed1-ecf03025f11d</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/02195df9-2be8-4a4b-91e6-269545905968/ep-5499f3ad-d4b2-4092-aed1-ecf03025f11d.mp3" length="3744805" type="audio/mpeg"/>
+      <itunes:duration>468</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
